@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  #legend{
+    margin-top: -50px
+  }
+  .cell:hover {
+    stroke-width:1px;
+    stroke: rgb(0, 0, 0);
+  }
+  
+  #tooltip{
+    position: absolute;
+      z-index: 1;
+    background-color: white;
+      white-space: pre-wrap;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid
+  }
+  
+  #month  {
+    position: absolute;
+    left: 40px;
+    transform: rotate(270deg)
+  }
+  
+  #years {
+  margin-bottom: 80px;
+    margin-top: -30px
+  }
