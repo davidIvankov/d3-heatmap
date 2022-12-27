@@ -33,3 +33,191 @@ body {
   margin-bottom: 80px;
     margin-top: -30px
   }
+
+  @media screen and (max-width: 1200px){
+    #month{
+      position: relative;
+      top: 50vh;
+      left: -55vw;
+    }
+    body{
+      transform: scale(0.9);
+    }
+  }
+
+     @media screen and (max-width: 1100px) {
+       #month {
+         position: relative;
+         top: 50vh;
+         left: -55vw;
+       }
+  
+       body {
+         transform: scale(0.8);
+       }
+     }
+
+            @media screen and (max-width: 1100px) {
+              #month {
+                position: relative;
+                top: 50vh;
+                left: -60vw;
+              }
+      
+              body {
+                transform: scale(0.7);
+              }
+            }
+
+                        @media screen and (max-width: 965px) {
+                          #month {
+                            position: relative;
+                            top: 50vh;
+                            left: -65vw;
+                          }
+            
+                          body {
+                            transform: scale(0.6);
+                          }
+                        }
+@media screen and (max-width: 885px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -70vw;
+  }
+
+  body {
+    transform: scale(0.6);
+  }
+}
+@media screen and (max-width: 824px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -75vw;
+  }
+
+  body {
+    transform: scale(0.5);
+  }
+}
+
+@media screen and (max-width: 770px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -80vw;
+  }
+
+ 
+}
+
+@media screen and (max-width: 720px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -85vw;
+  }
+
+
+}
+@media screen and (max-width: 675px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -95vw;
+  }
+
+
+}
+
+@media screen and (max-width: 770px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -110vw;
+  }
+body{
+transform: scale(0.4);
+}
+
+}
+
+@media screen and (max-width: 630px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -120vw;
+  }
+
+  body {
+    transform: scale(0.4);
+  }
+
+}
+
+@media screen and (max-width: 482px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -130vw;
+  }
+
+  body {
+    transform: scale(0.3);
+  }
+
+}
+
+@media screen and (max-width: 445px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -140vw;
+  }
+
+  body {
+    transform: scale(0.3);
+  }
+
+}
+
+@media screen and (max-width: 415px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -150vw;
+  }
+
+  body {
+    transform: scale(0.3);
+  }
+
+}
+
+@media screen and (max-width: 387px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -200vw;
+  }
+
+  body {
+    transform: scale(0.2);
+  }
+
+}
+
+@media screen and (max-width: 290px) {
+  #month {
+    position: relative;
+    top: 50vh;
+    left: -220vw;
+  }
+
+  body {
+    transform: scale(0.2);
+  }
+
+}
